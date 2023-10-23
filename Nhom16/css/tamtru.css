@@ -1,5 +1,4 @@
 
-
 body {
     box-sizing: border-box;
     overflow: scroll;
@@ -113,7 +112,7 @@ li.dropdown {
 
 .dropbtn {
     display: inline-block;
-    color: white;
+    color: #818181;
     padding: 15px;
     text-align: center;
     text-decoration: none;
@@ -226,11 +225,12 @@ form.example i {
     width: 950px;
     height: 1100px;
     background-color: aliceblue;
-    margin-left: 300px;
+    margin: 0 auto;
     box-shadow: 5px 5px 5px wheat;
 }
 .noidung{
     padding-left:  50px;
+    text-align: center;
 }
 .header{
     text-align: center;
@@ -283,15 +283,4 @@ form.example i {
 }
 .hearder>h2:nth-last-of-type(2){
     text-decoration: underline;
-}
-footer{
-  background-color: #38444d;
-  color: white;
-  line-height: 50px;
-  text-align: center;
-  margin-top: 50px;
-}
-footer > span{
-  margin-left: 50px;
-  font-size: 18px;
 }
