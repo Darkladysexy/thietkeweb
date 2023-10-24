@@ -221,12 +221,15 @@ form.example i {
     vertical-align: bottom;
 }
 
-.dtongthe{
+div.dtongthe1{
     width: 950px;
-    height: 1100px;
+    height: 1150px;
     background-color: aliceblue;
-    margin: 0 auto;
+    margin: 50px auto;
     box-shadow: 5px 5px 5px wheat;
+}
+div.container{
+    padding-top: 40px;
 }
 .noidung{
     padding-left:  50px;

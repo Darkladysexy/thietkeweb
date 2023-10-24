@@ -220,18 +220,18 @@ form.example i {
     font-size: 25px !important;
     vertical-align: bottom;
 }
-
 .dmaso {
     font-weight: bold;
     float: right;
     padding-top: 150px;
     padding-right: 70px;
 }
+
 .dtongthe{
     width: 794px;
     height: 1122px;
     background-image: url("../baitaplon/giaykethon.jpeg");
-    margin: 0 auto;
+    margin: 50px auto;
     font-size: 90%;
     box-shadow: 5px 5px 5px tan;
 }
